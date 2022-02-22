@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "153082167243",
+    "project_id": "time-tracker-bc9b5",
+    "storage_bucket": "time-tracker-bc9b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153082167243:android:6f973e83ae4c68e0fa404e",
+        "android_client_info": {
+          "package_name": "com.example.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153082167243-ssn07dbv2qlspck6vfs0bsmia3iitiap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtdTuIuyyZRJNeMfSMoJ1NQlUAiNMq_18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153082167243-ssn07dbv2qlspck6vfs0bsmia3iitiap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153082167243:android:2d2c72b0cc558478fa404e",
+        "android_client_info": {
+          "package_name": "com.example.time_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153082167243-n9p2a437t8ou23i5q9ndrnilaqg4ahga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.time_tracker_app",
+            "certificate_hash": "654bf4d2148a2f12b6b08898813fbe58171cab04"
+          }
+        },
+        {
+          "client_id": "153082167243-ssn07dbv2qlspck6vfs0bsmia3iitiap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtdTuIuyyZRJNeMfSMoJ1NQlUAiNMq_18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153082167243-ssn07dbv2qlspck6vfs0bsmia3iitiap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
